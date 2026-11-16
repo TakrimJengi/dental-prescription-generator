@@ -7,7 +7,7 @@ clinic settings, and a print-ready A4 prescription.
 - React + Vite
 - Node.js + Express
 - MySQL (`mysql2`)
-- Browser print-to-PDF (no separate PDF service required)
+- Browser print-to-PDF 
 
 ## Requirements
 - Node.js 20+
